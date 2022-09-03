@@ -1,6 +1,6 @@
 body {
-    color: black;
-    background-color: rgba(188, 217, 221, 0.63);
+    color: white;
+    background-color: black;
     border: 2px solid black;
     border-radius: 3%;
     border-top: 1px dotted black;
@@ -13,7 +13,7 @@ hr {
 }
 img {
     border: 2px solid black;
-    border-radius: 50%;
+    border-radius: 33%;
 }
 a2 {
     padding: auto;
