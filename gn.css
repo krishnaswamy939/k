@@ -4,7 +4,7 @@ body {
     border: 2px solid black;
     border-radius: 3%;
     border-top: 1px dotted black;
-    font-style:serif;
+    font-style:italic;
 }
 hr {
     border-top:5px dotted black;
