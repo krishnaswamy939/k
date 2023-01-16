@@ -1,6 +1,6 @@
 body {
-    color: white;
-    background-color: peach;
+    color: rgb(33, 30, 39); 
+    background-color: rgba(239, 231, 2 38, 0);
     border: 2px solid black;
     border-radius: 3%;
     border-top: 1px dotted black;
